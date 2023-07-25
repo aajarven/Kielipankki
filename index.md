@@ -2,8 +2,6 @@
 title: Kielipankki training material at CSC
 ---
 
-anni is testing here, sorry
-
 ::::: Note ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 The most up-to-date reference for the most current course is usually at our
 [HedgeDoc](https://siili.rahtiapp.fi/kielipankki-training).
